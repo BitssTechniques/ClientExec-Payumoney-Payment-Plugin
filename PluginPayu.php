@@ -16,8 +16,6 @@
  *
  *
  */
- 
-
 require_once 'modules/admin/models/GatewayPlugin.php';
 
 /**
