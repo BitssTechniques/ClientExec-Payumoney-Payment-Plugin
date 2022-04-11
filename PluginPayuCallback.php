@@ -21,7 +21,7 @@ require_once 'modules/billing/models/class.gateway.plugin.php';
 
 class PluginPayuCallback extends PluginCallback
 {
-    var $pluginFolderName = 'clientexec-payumoney-payment-plugin';  
+    var $pluginFolderName = 'payu';  
 
     function processCallback()
     {
